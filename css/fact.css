@@ -8,7 +8,7 @@
   --pink: #FF99CC;
   --green: #28a745;
   --cyan: #00FFFF;
-  --blue: #007bff;
+  --blue: #007bff;f
   --violet: #9900FF;
   --font-light: bandeins_strangelight;
   --font-regular: bandeins_strangeregular;
@@ -546,7 +546,7 @@ a:hover {
 }
 
 #end2 {
-  width: 60%;
+  width: 40%;
   height: auto;
   z-index: 100;
   cursor: pointer;
