@@ -571,6 +571,7 @@ a:hover {
   width: 20%;
   float: right;
   position: fixed;
+  margin-left: 5rem;
 }
 
 /* Transizione */
